@@ -21,6 +21,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake.svg">
 </picture> -->
 
+<details>
+<summary><b>🚀 Click to expand my not-so-serious bio</b></summary>
 <div align="center" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f6f8fa;">
   <h3>🧙‍♂️ A bit about me</h3>
   <p>
@@ -35,3 +37,4 @@
     <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"></a>
   </p> -->
 </div>
+</details>
