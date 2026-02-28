@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/github/forks/cleste-pome/SparseMVC?label=Folks[SparseMVC]&style=flat-square&color=7aa2f7" />  
 </p>
 
-| GitHub Stats [Cleste-pome] | Changes in stars [Papers] |
+| GitHub Stats [Cleste] | Changes in stars [Papers] |
 |:-:|:-:|
 | <img src="./profile-3d-contrib/profile-gitblock.svg" width="780" style="max-width: 100%;" alt="3D Contributions"> | <a href="https://www.star-history.com/#cleste-pome/SparseMVC&cleste-pome/Undergraduate-Graduation-Project&cleste-pome/GMAE&type=date&legend=bottom-right"><img src="https://api.star-history.com/svg?repos=cleste-pome/SparseMVC,cleste-pome/Undergraduate-Graduation-Project,cleste-pome/GMAE&type=date&legend=bottom-right" width="780" style="max-width: 100%;" alt="Star History Chart"></a> |
