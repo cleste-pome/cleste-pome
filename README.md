@@ -6,7 +6,9 @@
 <!-- Followers / Stars -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/cleste-pome?label=Followers&style=flat-square&color=bb9af7" />
-  <img src="https://img.shields.io/github/stars/cleste-pome?label=Stars&style=flat-square&color=9ece6a" />
+  <img src="https://img.shields.io/github/stars/cleste-pome?label=Total+Stars&style=flat-square&color=9ece6a" />
+  <img src="https://img.shields.io/github/forks/cleste-pome/SparseMVC?label=Folks&style=flat-square&color=7aa2f7" />
+  
 </p>
 
 ---
