@@ -20,3 +20,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake.svg">
 </picture> -->
+
+<div align="center" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f6f8fa;">
+  <h3>🧙‍♂️ A bit about me</h3>
+  <p>
+    💬 <i>Name:</i> Liu Ruimeng (but you can call me cleste – like "celeste", minus the platformer rage).<br>
+    📖 <i>School:</i> China University of Geosciences · Huazhong University of Science and Technology.<br>
+    🔭 <i>Currently:</i> Diving into unsupervised representation learning & making papers less lonely.<br>
+    🌱 <i>Learning:</i> How to explain my code to my rubber duck without crying.<br>
+    ⚡ <i>Secret skill:</i> If it works, don't touch it. If it doesn't work, StackOverflow it.<br>
+  </p>
+  <!-- <p>
+    <a href="https://github.com/cleste-pome"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+    <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"></a>
+  </p> -->
+</div>
