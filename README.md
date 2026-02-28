@@ -13,3 +13,9 @@
 | GitHub Stats [Cleste] | Changes in stars [Papers] |
 |:-:|:-:|
 | <img src="./profile-3d-contrib/profile-gitblock.svg" width="780" style="max-width: 100%;" alt="3D Contributions"> | <a href="https://www.star-history.com/#cleste-pome/SparseMVC&cleste-pome/Undergraduate-Graduation-Project&cleste-pome/GMAE&type=date&legend=bottom-right"><img src="https://api.star-history.com/svg?repos=cleste-pome/SparseMVC,cleste-pome/Undergraduate-Graduation-Project,cleste-pome/GMAE&type=date&legend=bottom-right" width="780" style="max-width: 100%;" alt="Star History Chart"></a> |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake.svg">
+</picture>
