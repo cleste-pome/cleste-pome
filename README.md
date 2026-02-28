@@ -13,5 +13,5 @@
 ## 📈 GitHub Stats
 <!-- GitHub Stats -->
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=cleste-pome&theme=tokyonight&hide_border=true" />
+  <img height="170" src="./profile-3d-contrib/profile-gitblock.svg" />
 </p>
