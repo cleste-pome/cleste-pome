@@ -22,14 +22,14 @@
 </picture> -->
 
 <details>
-<summary><b>🚀 Click to expand my not-so-serious bio</b></summary>
+<summary><b>🚀 Click to expand my not-so-serious bio 😄</b></summary>
 <div align="center" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f6f8fa;">
   <h3>🧙‍♂️ A bit about me</h3>
   <p>
-    💬 <i>Name:</i> Liu Ruimeng (but you can call me cleste – like "celeste", minus the platformer rage).<br>
+    🌱 <i>Name:</i> Liu Ruimeng (but you can call me cleste – like "celeste", minus the platformer rage).<br>
     📖 <i>School:</i> China University of Geosciences · Huazhong University of Science and Technology.<br>
     🔭 <i>Currently:</i> Diving into unsupervised representation learning & making papers less lonely.<br>
-    🌱 <i>Learning:</i> How to explain my code to my rubber duck without crying.<br>
+    💻 <i>Learning:</i> How to explain my code to my rubber duck without crying.<br>
     ⚡ <i>Secret skill:</i> If it works, don't touch it. If it doesn't work, StackOverflow it.<br>
   </p>
   <!-- <p>
