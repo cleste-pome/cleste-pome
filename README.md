@@ -22,13 +22,12 @@
 </picture> -->
 
 <details>
-<summary><b>📖 Click to expand my not-so-serious bio 😄</b></summary>
+<summary><b>Click to expand my not-so-serious bio 😄</b></summary>
 <div align="center" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f6f8fa;">
   <h3>🧙‍♂️ A bit about me</h3>
   <p>
-    🌱 <i>Name:</i> <font color="#8250DF"><b>Liu Ruimeng</b></font> (but you can call me cleste – like "celeste").<br>
-    <img src="http://www.cs.hust.edu.cn/images/logo_news2025059.png" width="70" />  
-    <i>School:</i> <font color="#8250DF"><b>China University of Geoscience (Bachelor & Master) · Huazhong University of Science and Technology (Pursue a Ph.D.)</b></font>.<br>
+    🌱 <i>Name:</i> <font color="#8250DF"><b>Liu Ruimeng</b></font> (but you can call me cleste – like "celeste").<br>  
+    📖 <i>School:</i> <font color="#8250DF"><b>China University of Geoscience (Bachelor & Master) <img src="http://www.cs.hust.edu.cn/images/logo_news2025059.png" width="60" /> Huazhong University of Science and Technology (Pursue a Ph.D.)</b></font>.<br>
     🔭 <i>Currently:</i> Diving into <font color="#8250DF"><b>unsupervised representation learning</b></font> & making papers less lonely.<br>
     💻 <i>Learning:</i> How to tell my advisor that I've been tuning hyperparameters for a week.<br>
     ⚡ <i>Secret skill:</i> If it works, don't touch it. If it doesn't work, StackOverflow it.<br>
