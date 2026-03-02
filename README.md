@@ -27,7 +27,7 @@
   <h3>🧙‍♂️ A bit about me</h3>
   <p>
     🌱 <i>Name:</i> <font color="#8250DF"><b>Liu Ruimeng</b></font> (but you can call me cleste – like "celeste", minus the platformer rage).<br>
-    📖 <i>School:</i> <font color="#8250DF"><b>China University of Geosciences · Huazhong University of Science and Technology</b></font>.<br>
+    📖 <i>School:</i> <font color="#8250DF"><b>School of Computer Science and Technology · Huazhong University of Science and Technology</b></font>.<br>
     🔭 <i>Currently:</i> Diving into <font color="#8250DF"><b>unsupervised representation learning</b></font> & making papers less lonely.<br>
     💻 <i>Learning:</i> How to tell my advisor that I've been tuning hyperparameters for a week.<br>
     ⚡ <i>Secret skill:</i> If it works, don't touch it. If it doesn't work, StackOverflow it.<br>
