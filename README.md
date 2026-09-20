@@ -11,9 +11,11 @@
   <!-- <img src="https://img.shields.io/github/forks/cleste-pome/SparseMVC?label=Forks[SparseMVC]&style=flat-square&color=7aa2f7" />   -->
 </p>
 
-| GitHub Stats [Cleste] | Changes in Contributions [Projects] |
+<!-- 表格开始：左侧3D贡献图，右侧Star历史曲线图 -->
+| GitHub Contributions [Cleste] | Changes in Stats [Projects] |
 |:-:|:-:|
-| <img src="./profile-3d-contrib/profile-gitblock.svg" width="780" style="max-width: 100%;" alt="3D Contributions"> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake.svg"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cleste-pome/cleste-pome/output/github-contribution-grid-snake.svg" width="780" style="max-width: 100%;"></picture> |
+| <!-- 左格：3D贡献图，路径不变 --> <img src="./profile-3d-contrib/profile-night-view.svg" width="780" style="max-width: 100%;" alt="3D Contributions"> | <!-- 右格：Star历史曲线图，点击图片跳转到 star-history 页面。repos= 后面是仓库列表，用 %2C 表示逗号，改成你自己的仓库即可 --> <a href="https://www.star-history.com/?repos=cleste-pome%2Fsparsemvc%2Ccleste-pome%2Fundergrad-project%2Ccleste-pome%2Fgmae%2Ccleste-pome%2Fmasa&type=date&legend=top-left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=cleste-pome/sparsemvc%2Ccleste-pome/undergrad-project%2Ccleste-pome/gmae%2Ccleste-pome/masa&type=date&theme=dark&legend=top-left" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=cleste-pome/sparsemvc%2Ccleste-pome/undergrad-project%2Ccleste-pome/gmae%2Ccleste-pome/masa&type=date&legend=top-left" /><img alt="Star History Chart" src="https://api.star-history.com/chart?repos=cleste-pome/sparsemvc%2Ccleste-pome/undergrad-project%2Ccleste-pome/gmae%2Ccleste-pome/masa&type=date&legend=top-left" width="780" style="max-width: 100%;" /></picture></a> |
+<!-- 表格结束 -->
 
 <details>
 <summary><b>Click to expand my not-so-serious bio 😄</b></summary>
