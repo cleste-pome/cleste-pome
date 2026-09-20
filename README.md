@@ -31,8 +31,10 @@
   </p>
   <p>
     <a href="https://cleste-pome.github.io/"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-Personal%20Website-0EA5E9?style=flat-square&logo=githubpages&logoColor=white" alt="个人网站 / Personal Website"></a>
-    <a href="https://github.com/cleste-pome"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
-    <a href="https://scholar.google.com/citations?user=aUBNlUUAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/cleste-pome"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+    &nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=aUBNlUUAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   </p>
 </div>
 </details>
