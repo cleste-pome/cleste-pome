@@ -29,9 +29,9 @@
     💻 <i>Learning:</i> How to tell my advisor that I've been tuning hyperparameters for a week.<br>
     ⚡ <i>Secret skill:</i> If it works, don't touch it. If it doesn't work, StackOverflow (Codex/ClaudeCode) it.<br>
   </p>
-  <!-- <p>
+  <p>
     <a href="https://github.com/cleste-pome"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
-    <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"></a>
-  </p> -->
+    <a href="https://scholar.google.com/citations?user=aUBNlUUAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
+  </p>
 </div>
 </details>
