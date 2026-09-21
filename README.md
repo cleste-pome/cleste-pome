@@ -32,8 +32,8 @@
   <p>
     <a href="https://cleste-pome.github.io/"><img src="https://img.shields.io/badge/Liu%20Ruimeng-Website-0EA5E9?style=flat-square&logo=githubpages&logoColor=white" alt="Liu Ruimeng · Website"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/cleste-pome"><img src="https://img.shields.io/badge/Liu%20Ruimeng-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Liu Ruimeng · GitHub"></a>
-    &nbsp;&nbsp;
+    <a href="https://github.com/cleste-pome"><img src="https://img.shields.io/badge/Liu%20Ruimeng-GitHub-6E7681?style=flat-square&logo=github&logoColor=white" alt="Liu Ruimeng · GitHub"></a>
+  &nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=aUBNlUUAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Liu%20Ruimeng-Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Liu Ruimeng · Google Scholar"></a>
   </p>
 </div>
